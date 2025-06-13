@@ -1,6 +1,6 @@
 # DigiMedFor
 <p align="left">
-![Our Logo](https://raw.githubusercontent.com/DigiMedFor/.github/main/Logo_Soft_Green_DigiMedFor.png)
+<img src="https://raw.githubusercontent.com/DigiMedFor/.github/main/Logo_Soft_Green_DigiMedFor.png">
 </p>
 
 <p align="left">
