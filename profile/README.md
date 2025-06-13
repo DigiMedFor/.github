@@ -5,9 +5,7 @@
 
 
 
-<p align="left">
-  <img src="https://digimedfor.eu/wp-content/uploads/2023/10/EN_FundedbytheEU_RGB_POS1-2048x456.png" width="512" alt="Funded by the European Union" style="float: left; margin-right: 20px;">
-</p>
+![Logo](https://raw.githubusercontent.com/DigiMedFor/.github/main/images/EU_Funded.png)
 
 Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
 
