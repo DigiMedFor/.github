@@ -1,7 +1,8 @@
 # DigiMedFor
-<p align="left">
-<img src="https://raw.githubusercontent.com/DigiMedFor/.github/main/Logo_Soft_Green_DigiMedFor.png">
-</p>
+
+
+![Logo](https://raw.githubusercontent.com/DigiMedFor/.github/main/Logo_Soft_Green_DigiMedFor.png)
+
 
 <p align="left">
   <img src="https://digimedfor.eu/wp-content/uploads/2023/10/EN_FundedbytheEU_RGB_POS1-2048x456.png" width="512" alt="Funded by the European Union" style="float: left; margin-right: 20px;">
