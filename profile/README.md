@@ -1,7 +1,8 @@
 # DigiMedFor
 
 
-![Logo](https://raw.githubusercontent.com/DigiMedFor/.github/main/Logo_Soft_Green_DigiMedFor.png)
+![Logo](https://raw.githubusercontent.com/DigiMedFor/.github/main/images/Logo_Soft_Green_DigiMedFor.png)
+
 
 
 <p align="left">
