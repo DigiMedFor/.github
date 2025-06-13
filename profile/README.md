@@ -1,7 +1,7 @@
 # DigiMedFor
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/DigiMedFor/.github/main/images/Logo_Soft_Green_DigiMedFor.png" width="300">
+  <img src="https://raw.githubusercontent.com/DigiMedFor/.github/main/images/Logo_Soft_Green_DigiMedFor.png" width="200">
 </p>
 <p align="left">
   <img src="https://raw.githubusercontent.com/DigiMedFor/.github/main/images/EU_Funded.png" width="300">
